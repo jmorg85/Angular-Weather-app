@@ -5,6 +5,10 @@ This application uses a an API to get weather related information on a location 
 ![image](https://github.com/jmorg85/Angular-Weather-app/assets/15697425/fa738053-2490-47ba-91e1-bd48c0792424)
 
 
+
+https://github.com/jmorg85/Angular-Weather-app/assets/15697425/35fc08f1-ce9b-41d4-8828-5b9afd114e50
+
+
 # How to get started
 1. I googled and found this API called **Weather API**. Scroll to the bottom to find the **Get Started** page. Link to the website is here: https://www.weatherapi.com/
 2. Once there you enter the basic information and they should send you an API key for you to access it how you see fit.
