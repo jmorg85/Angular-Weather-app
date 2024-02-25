@@ -1,5 +1,5 @@
 # Description
-This application uses a an API to get weather related information on a location that you search up. It will also use another API to determine what's the best stuff to buy to deal with the weather as well.
+This application uses a an API to get weather related information on a location that you search up.
 
 # Results
 
