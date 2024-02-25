@@ -2,7 +2,8 @@
 This application uses a an API to get weather related information on a location that you search up. It will also use another API to determine what's the best stuff to buy to deal with the weather as well.
 
 # Results
-![image](https://github.com/jmorg85/Angular-Weather-app/assets/15697425/e9d2d464-0a87-47c3-847b-483dede93128)
+![image](https://github.com/jmorg85/Angular-Weather-app/assets/15697425/fa738053-2490-47ba-91e1-bd48c0792424)
+
 
 # How to get started
 1. I googled and found this API called **Weather API**. Scroll to the bottom to find the **Get Started** page. Link to the website is here: https://www.weatherapi.com/
