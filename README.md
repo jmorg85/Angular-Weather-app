@@ -4,9 +4,14 @@ This application uses a an API to get weather related information on a location 
 # Results
 
 On startup, it loads the weather for Chicago, IL showing local info and the weather in both Fahrenheit and Celsius
-https://github.com/jmorg85/Angular-Weather-app/assets/15697425/35fc08f1-ce9b-41d4-8828-5b9afd114e50
+
+
+https://github.com/jmorg85/Angular-Weather-app/assets/15697425/a00c4109-99c1-4dbc-8dac-188fba2a060b
+
 
 Here the search feature is being used to show the current weather of Los Angeles, CA
+
+
 https://github.com/jmorg85/Angular-Weather-app/assets/15697425/fe8603cc-ebc7-45e1-8ee7-8d96f615aa73
 
 # How to get started
