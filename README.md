@@ -1,27 +1,12 @@
-# AngularWeatherApp
+# Description
+This application uses a an API to get weather related information on a location that you search up. It will also use another API to determine what's the best stuff to buy to deal with the weather as well.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
+# Results
+![image](https://github.com/jmorg85/Angular-Weather-app/assets/15697425/e9d2d464-0a87-47c3-847b-483dede93128)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# How to get started
+1. I googled and found this API called **Weather API**. Scroll to the bottom to find the **Get Started** page. Link to the website is here: https://www.weatherapi.com/
+2. Once there you enter the basic information and they should send you an API key for you to access it how you see fit.
+3. To access the documentation of this API, please follow this link here: https://www.weatherapi.com/docs/
+4. Here are the results when I look at the current weather of Chicago. ![image](https://github.com/jmorg85/Angular-Weather-app/assets/15697425/d48e1439-2072-4299-9e80-ddb901b1df39)
+5. This API can do a variety of other things, like looking at the 14 day forcast, weather alerts, location data, and more.
