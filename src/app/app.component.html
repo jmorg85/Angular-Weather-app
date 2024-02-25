@@ -6,8 +6,8 @@
     </div>
   </div>
   <div *ngIf="results" class="margin">
-    <div class="flex-container">
-      <div class="flex-child box-shadow">
+    <div class="flex-container box-shadow">
+      <div class="flex-child">
         <h2 class="text">Current city: {{results.location.name}}</h2>
         <p class="text">Local time: {{ localTime }}</p>
         <P class="text">Current weather: {{ results.current.condition.text}}</P>
@@ -20,7 +20,7 @@
         <p class="text">Show temp in Celsius?</p>
       </div>
   
-      <div class="flex-child box-shadow">
+      <div class="flex-child">
         <img [src]="results.current.condition.icon" class="weather-icon">
       </div>
     </div>
