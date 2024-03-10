@@ -70,6 +70,7 @@
 
   .flex-container {
     display: flex;
+    max-width: 100%;
   }
 
   .search-bar {
@@ -79,7 +80,7 @@
 
   .weather-icon {
     height: 250px;
-    width: 250px;
+    width: 50%;
     margin-left: 25%;
   }
 

@@ -8,7 +8,7 @@
   <div *ngIf="results" class="margin">
     <div class="flex-container box-shadow">
       <div class="flex-child">
-        <h2 class="text">Current city: {{results.location.name}}</h2>
+        <h2 class="text">Current city: {{results.location.name}}, {{ results.location.region}}, {{ results.location.country}}</h2>
         <p class="text">Local time: {{ localTime }}</p>
         <P class="text">Current weather: {{ results.current.condition.text}}</P>
         <p class="text">Current temperature: {{ ifFahrenheit ? results.current.temp_f + 'F' : results.current.temp_c + 'C'}}</p>
